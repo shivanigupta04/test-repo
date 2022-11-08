@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_phone_number" label="phone number" language="en" table="u_personal_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_phone_number</element>
+            <help/>
+            <hint/>
+            <label>phone number</label>
+            <language>en</language>
+            <name>u_personal_details</name>
+            <plural>phone numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-08 04:04:04</sys_created_on>
+            <sys_name>phone number</sys_name>
+            <sys_package display_value="sample app 2" source="1dc12615974b11101dc2fef3a253af72">1dc12615974b11101dc2fef3a253af72</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sample app 2">1dc12615974b11101dc2fef3a253af72</sys_scope>
+            <sys_update_name>sys_documentation_u_personal_details_u_phone_number_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

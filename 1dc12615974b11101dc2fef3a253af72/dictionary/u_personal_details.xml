@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0e226a55974b11101dc2fef3a253af07" label="personal details" max_length="40" name="u_personal_details" type="collection">
+        <element label="dob" max_length="40" name="u_dob" type="glide_date"/>
+        <element label="name" max_length="40" name="u_name" type="string"/>
+        <element label="phone number" max_length="40" name="u_phone_number" type="string"/>
+    </element>
+</database>

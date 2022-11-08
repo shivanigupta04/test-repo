@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>u_personal_details</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-08 04:04:04</sys_created_on>
+        <sys_id>cb42ea55974b11101dc2fef3a253af3f</sys_id>
+        <sys_name>u_personal_details</sys_name>
+        <sys_package display_value="sample app 2" source="1dc12615974b11101dc2fef3a253af72">1dc12615974b11101dc2fef3a253af72</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sample app 2">1dc12615974b11101dc2fef3a253af72</sys_scope>
+        <sys_update_name>ua_table_licensing_config_cb42ea55974b11101dc2fef3a253af3f</sys_update_name>
+    </ua_table_licensing_config>
+</record_update>
